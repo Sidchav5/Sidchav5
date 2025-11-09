@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from around the globe 🌍</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Always+learning+new+things;Building+cool+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Always+learning+new+things;Building+cool+projects!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -80,22 +80,50 @@
 
 ## 🔥 Featured Projects
 
+### ⚖️ LawgicAI - Legal Contract Analysis Platform
 <p align="center">
-  <a href="https://github.com/Sidchav5/College_LawgicAI">
-    <img src="https://github.com/Sidchav5/College_LawgicAI/blob/main/README.md" alt="Repo 1"/>
-  </a>
-  <a href="https://github.com/Sidchav5/COI_made_easy">
-    <img src="https://github.com/Sidchav5/COI_made_easy/blob/main/README.md" alt="Repo 2"/>
-  </a>
+  <img src="https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&h=300&fit=crop" alt="Legal AI Platform"/>
 </p>
+
+An advanced AI-powered legal contract analysis system with integrated community support, AI-based contract generation, and user management.
+
+**Tech Stack:** Flask, React, MongoDB, LegalBERT, Gemini AI, XGBoost  
+**Features:**
+- 🧠 Clause Risk Analysis using ML (XGBoost, SVM, Random Forest)
+- 📜 AI Contract Generator with Gemini LLM
+- 🧩 Community Support Platform
+- 👤 Secure JWT Authentication
+
+[🔗 View Project](https://github.com/Sidchav5/College_LawgicAI)
+
+---
+
+### 📜 Constitution of India - Made Easy
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Constitution_of_India.jpg/500px-Constitution_of_India.jpg"/>
+</p>
+
+An interactive, AI-powered educational platform making the Constitution of India accessible and engaging through gamification and AI assistance.
+
+**Tech Stack:** Flask, React, MySQL, Google Gemini AI  
+**Features:**
+- 📚 Explore all 25 Parts of the Constitution
+- 🤖 AI-Powered Constitutional Chatbot
+- 🧠 Dynamic AI Quiz Generator (Easy/Medium/Hard)
+- 🏆 Leaderboard & Scoring System
+
+[🔗 View Project](https://github.com/Sidchav5/COI_made_easy)
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/siddhesh-chavan-1b2b2727a" target="_blank">
+  <a href="https://www.linkedin.com/in/siddhesh-chavan-1b2b2727a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href=https://www.instagram.com/siddhu_555_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:csiddhesh768@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
