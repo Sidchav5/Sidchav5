@@ -82,10 +82,10 @@
 
 <p align="center">
   <a href="https://github.com/Sidchav5/College_LawgicAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidchav5&repo=your-repo-1&theme=tokyonight&hide_border=true" alt="Repo 1"/>
+    <img src="https://github.com/Sidchav5/College_LawgicAI/blob/main/README.md" alt="Repo 1"/>
   </a>
   <a href="https://github.com/Sidchav5/COI_made_easy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidchav5&repo=your-repo-2&theme=tokyonight&hide_border=true" alt="Repo 2"/>
+    <img src="https://github.com/Sidchav5/COI_made_easy/blob/main/README.md" alt="Repo 2"/>
   </a>
 </p>
 
