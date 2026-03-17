@@ -1,28 +1,18 @@
-<h1 align="center">Hi 👋, I'm Siddhesh Chavan</h1>
-<h3 align="center">A passionate developer from around the globe 🌍</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Always+learning+new+things;Building+cool+projects!" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sidchav5&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/sidchav5?label=Followers&style=social" alt="followers" />
-</p>
+<h1 align="center">Siddhesh Chavan</h1>
+<h3 align="center">Software Developer</h3>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔭 I'm currently working on **SoberFolks**
-- 🌱 I'm currently learning **TY Artificial Intelligence & Data Science**
-- 👯 I'm looking to collaborate on **Full Stack, AIML & Data Science**
-- 📫 How to reach me: **csiddhesh768@gmail.com**
-- ⚡ Fun fact: **Debater, Basketball player, Chess Lover**
+- Currently working on **SoberFolks**
+- Focused on **Artificial Intelligence and Data Science**
+- Open to collaboration on **Full Stack, AI/ML, and Data Science projects**
+- Contact: **csiddhesh768@gmail.com**
 
 ---
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <p align="center">
   <!-- Programming Languages -->
@@ -53,89 +43,13 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidchav5&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidchav5&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidchav5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidchav5&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sidchav5&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 🔥 Featured Projects
-
-### ⚖️ LawgicAI - Legal Contract Analysis Platform
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&h=300&fit=crop" alt="Legal AI Platform"/>
-</p>
-
-An advanced AI-powered legal contract analysis system with integrated community support, AI-based contract generation, and user management.
-
-**Tech Stack:** Flask, React, MongoDB, LegalBERT, Gemini AI, XGBoost  
-**Features:**
-- 🧠 Clause Risk Analysis using ML (XGBoost, SVM, Random Forest)
-- 📜 AI Contract Generator with Gemini LLM
-- 🧩 Community Support Platform
-- 👤 Secure JWT Authentication
-
-[🔗 View Project](https://github.com/Sidchav5/College_LawgicAI)
-
----
-
-### 📜 Constitution of India - Made Easy
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Constitution_of_India.jpg/500px-Constitution_of_India.jpg"/>
-</p>
-
-An interactive, AI-powered educational platform making the Constitution of India accessible and engaging through gamification and AI assistance.
-
-**Tech Stack:** Flask, React, MySQL, Google Gemini AI  
-**Features:**
-- 📚 Explore all 25 Parts of the Constitution
-- 🤖 AI-Powered Constitutional Chatbot
-- 🧠 Dynamic AI Quiz Generator (Easy/Medium/Hard)
-- 🏆 Leaderboard & Scoring System
-
-[🔗 View Project](https://github.com/Sidchav5/COI_made_easy)
-
----
-
-## 🌐 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/siddhesh-chavan-1b2b2727a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href=https://www.instagram.com/siddhu_555_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
   <a href="mailto:csiddhesh768@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
-<p align="center">
-  Made with ❤️ by Sidchav5
 </p>
